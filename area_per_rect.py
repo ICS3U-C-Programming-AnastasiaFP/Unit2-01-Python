@@ -1,0 +1,5 @@
+print("If a rectangle has the dimentions:")
+print("10cm x 3.68cm")
+print("")
+print("Area is = {}cm^2".format(10 * 3.68))
+print("Perimeter is = {}".format(2 * (10 + 3.68)))
